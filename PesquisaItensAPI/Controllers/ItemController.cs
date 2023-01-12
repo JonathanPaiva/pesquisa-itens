@@ -3,7 +3,6 @@ using Microsoft.EntityFrameworkCore;
 using PesquisaItensAPI.DTO;
 using PesquisaItensAPI.Interfaces;
 using PesquisaItensAPI.Models;
-using System.Diagnostics;
 
 namespace PesquisaItensAPI.Controllers
 {
